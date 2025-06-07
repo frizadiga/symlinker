@@ -33,3 +33,6 @@ go.work.sum
 
 # symlinker conf file
 *symlinker.conf
+
+# bin
+./symlinker
