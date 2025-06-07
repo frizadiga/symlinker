@@ -35,4 +35,8 @@ go.work.sum
 *symlinker.conf
 
 # bin
-./symlinker
+symlinker
+
+# Textify generated file
+*.textify.txt
+
